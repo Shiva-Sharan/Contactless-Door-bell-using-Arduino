@@ -1,0 +1,10 @@
+Hardware :
+Arduino Uno (or compatible microcontroller)
+Ultrasonic sensor (HC-SR04)
+Piezo buzzer or speakerResistors (as required)
+Jumper wires
+Breadboard
+Power source (5V battery or USB cable)
+
+Software:
+7.Arduino IDE
